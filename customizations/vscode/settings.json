@@ -1,0 +1,5 @@
+{
+    "terminal.integrated.env.linux": {
+        "SSH_AUTH_SOCK": "/tmp/ssh-agent.sock"
+    }
+}
